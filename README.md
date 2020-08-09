@@ -1,2 +1,2 @@
-# my_kafka
+# My Kafka
 Simulating streaming in kafka
